@@ -1,3 +1,10 @@
+""""
+Decision tree model for amazon book dataset
+Submitted by : Gmon Kuzhiyanikkal
+Date : 23 april 2023
+
+"""
+
 import pandas as pd
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
