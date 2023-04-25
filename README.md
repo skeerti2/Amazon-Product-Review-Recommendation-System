@@ -11,5 +11,6 @@ Recommendation of Products based on Amazon Reviews through sentiment analysis
 ### Operating System used for the project is MacOS
 ### Python version 3.7.2 has been used to carry out the entire project
 ### Jupyter Notebook was used as an IDE
+### Book Dataset is run using the visual studio code, please run the corressponding python file to run the program
 ### The dataset files are present within the project folder. File path needs to be changed in order to run the project on another machine.
 ### Time Travel days used - No days were used
